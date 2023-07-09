@@ -14,3 +14,6 @@ Sample website with plenty of files for demos. Hands on.
 
 ## How to contribute
 Example contribution.
+
+### Copyright
+2023 Git Training
