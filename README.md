@@ -16,4 +16,4 @@ Sample website with plenty of files for demos. Hands on.
 Example contribution.
 
 ### Copyright
-2023 Git Training
+2023 Git Training - Dhivakar
